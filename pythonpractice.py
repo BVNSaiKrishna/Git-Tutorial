@@ -1,4 +1,4 @@
-num = 65
+num = 80
 if num % 2 == 0:
     print('Even')
 else:
